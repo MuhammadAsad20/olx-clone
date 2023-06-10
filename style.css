@@ -1,0 +1,209 @@
+body{
+    margin: auto;
+}
+#header{
+    width: 1915px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+ align-items: center;
+    justify-content: center;
+}
+#nav1{
+    width: 1150px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    
+}
+.logo_col{
+    fill: blue;
+    width: 32px;
+    height: 26px;
+}
+.link{
+    margin-right: 20px;
+    display: flex;
+    align-items: baseline;
+}
+#nav2{
+    width: 1150px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.nav_logo{
+    width: 61.15px;
+    height: 35px;
+}
+#search-box1{
+    width: 215px;
+    height: 44px;
+    border: 2px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+.icon-box{
+    height: 34px;
+    width: 18px;
+}
+#inp1{
+    height: 34px;
+    width: 203px; 
+    padding-left: 10px;
+    border: none; 
+    outline: none;
+}
+.set-icon{
+    height: 34px;
+    width: 18px;
+}
+#search-box2{
+    width: 638px;
+    height: 44px;
+    border: 2px solid rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+#inp2{
+    height: 34px;
+    width: 595px; 
+    padding-left: 10px;
+    border: none; 
+    outline: none;
+}
+.search-btn{
+    height: 45px;
+    background-color: #000000;
+    fill: white;
+    border: none;
+}
+.login{
+    width: 63px;
+    height: 44px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-left: 25px;
+}
+.login-btn{
+    height: 20px;
+    width: 45px;
+    background: none;
+    border: none;
+   border-bottom: 2px solid black;
+   font-weight: bold;
+}
+.login-btn:hover{
+    border: none;
+}
+.sell{
+    width: 130px;
+    height: 44px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.sell-btn{
+    background: none;
+    border: none;
+}
+.sell-plus{
+    width: 70px;
+    height: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 70px;
+    left: 1437px;
+    font-weight: bold;
+}
+
+#box{
+    width: 370px;
+    height: 522px;
+    border: 2px dotted black;
+}
+#cross{
+    width: 370px;
+    height: 40px;
+    border: 2px dotted rgb(0, 0, 0);
+    display: flex;
+    justify-content: end;
+}
+#form{
+    width: 370px;
+    height: 475px;
+    border: 2px dotted rgb(213, 34, 34);
+}
+#part1{
+    width: 368px;
+    height: 205px;
+    border: 2px dotted #79d522;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo{
+    width: 147px;
+    height: 75px;
+}
+.head{
+    width: 166px;
+    height: 40px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.text{
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: end;
+    text-align: center;
+}
+#part2{
+    width: 368px;
+    height: 216px;
+    border: 2px dotted rgb(34, 213, 70);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    width: 295px;
+    height: 48px;
+    border: 2px dotted rgb(34, 213, 70);
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.logo_img{
+    width: 30px;
+    height: 30px;
+}
+.text_align{
+    width: 172px;
+    height: 20px;
+   
+}
+#part3{
+    width: 368px;
+    height: 43px;
+    border: 2px dotted rgb(81, 195, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form_footer{
+    width: 348px;
+    height: 33px;
+    border: 2px dotted rgb(81, 195, 0);
+    text-align: center;
+}
