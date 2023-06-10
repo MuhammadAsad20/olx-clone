@@ -76,10 +76,19 @@ body{
     outline: none;
 }
 .search-btn{
-    height: 45px;
+    height: 42px;
     background-color: #000000;
     fill: white;
     border: none;
+    margin-right: 1px;
+}
+#search-box1:hover{
+    border: none;
+    box-shadow: 0px 0px 6px 2px rgb(0, 102, 255);
+}
+#search-box2:hover{
+    border: none;
+    box-shadow: 0px 0px 6px 2px rgb(0, 102, 255);
 }
 .login{
     width: 63px;
